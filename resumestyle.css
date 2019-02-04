@@ -1,0 +1,14 @@
+h1, h2{
+	background-color: blue;
+	font-size: 86px;
+	border: dashed;
+	text-align: center;
+}
+
+h3, h5, h6, {
+	font-size: 48px;
+	text-align: center;
+}
+
+
+
