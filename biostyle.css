@@ -1,4 +1,4 @@
-h1{
+h1, h2{
 	font-size: 56px;
 	border: dashed;
 	text-align: center;
@@ -16,4 +16,12 @@ p{
 	background-color: green;
 	color: yellow;
 	font-size: 32px;
+}
+
+body{
+	background-color:#ff99ff;
+}
+
+h2{
+	font-family: "Comic Sans MS";
 }

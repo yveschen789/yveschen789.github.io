@@ -1,0 +1,22 @@
+h1{
+	font-size: 96px;
+	text-align: center;
+	text-decoration-style: underline;
+}
+
+body{
+	background-color:#ff99ff;
+}
+
+a:hover{
+	color: blue;
+}
+
+h2{
+	border: solid;
+	border-color: blue;
+}
+
+h1 em{
+	background-color: blue;
+}
