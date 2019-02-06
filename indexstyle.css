@@ -1,7 +1,7 @@
 h1{
 	font-size: 96px;
 	text-align: center;
-	text-decoration-style: underline;
+	text-decoration-style: wavy;
 }
 
 body{
@@ -13,8 +13,7 @@ a:hover{
 }
 
 h2{
-	border: solid;
-	border-color: blue;
+	text-align: center;
 }
 
 h1 em{
