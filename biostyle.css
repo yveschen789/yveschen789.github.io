@@ -1,0 +1,19 @@
+h1{
+	font-size: 56px;
+	border: dashed;
+	text-align: center;
+}
+
+p{
+	font-family: "Times New Roman";
+	font-size: 24px;
+	text-align: left;
+	border: dashed;
+	font-style: italic;
+}
+
+.cool{
+	background-color: green;
+	color: yellow;
+	font-size: 32px;
+}
